@@ -1,1 +1,2 @@
-This is a line. I wonder what the termination will be.
+I will make a change, commit it and push it back via command line git, and see if I can pull it in github.
+This shouldn't happen, because I'll be in the same repo. So then I'll push it to the OTHER repo, leaving it in UNIX.
